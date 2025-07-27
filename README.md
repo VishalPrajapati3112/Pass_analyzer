@@ -55,6 +55,9 @@ pip install streamlit zxcvbn requests
 streamlit run password_app.py
 Then open your browser at: http://localhost:8501
 
+<img width="2880" height="1704" alt="UI" src="https://github.com/user-attachments/assets/0e161c8d-4cdf-4f1b-ac4f-7baf740cda4e" />
+
+
 
 # ✅ Benefits
 Real-time security feedback
